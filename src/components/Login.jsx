@@ -56,7 +56,7 @@ const readValue=()=>{
                                             </div>
                                             <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
 
-                                            <p><Link class="link-offset-2 link-underline link-underline-opacity-10" to="#">new users click here</Link></p>
+                                            <p><Link class="link-offset-2 link-underline link-underline-opacity-10" to="/add">new users click here</Link></p>
                                             </div>
                                         </div>
                                     </div>

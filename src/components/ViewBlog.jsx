@@ -30,10 +30,10 @@ const ViewBlog = () => {
 
 
                                     <div class="card mb-3">
-                                        <img src="" class="card-img-top" alt="..." />
+                                        <img src="https://cdn.pixabay.com/photo/2014/10/22/17/47/keyboard-498396_1280.jpg" class="card-img-top" alt="..." />
                                         <div class="card-body">
                                             <h5 class="card-title">Title:{value.title}</h5>
-                                            <p class="card-text">{value.userid}</p>
+                                            <p class="card-text">User Id:{value.userid}</p>
                                             <p class="card-text">{value.message}</p>
     
                                             <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>

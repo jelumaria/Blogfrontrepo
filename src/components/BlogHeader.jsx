@@ -14,7 +14,7 @@ const BlogHeader = () => {
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <Link class="nav-link active" aria-current="page" to="/">Add Post</Link>
+          <Link class="nav-link active" aria-current="page" to="/add">Add Post</Link>
         </li>
         <li class="nav-item">
           <Link class="nav-link  active" to="/mypost">View my post </Link>

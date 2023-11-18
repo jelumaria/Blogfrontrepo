@@ -16,6 +16,7 @@ function App() {
         <Route path='add' element={<AddBlog/>}/>
         <Route path='view' element={<ViewBlog/>}/>
         <Route path='mypost' element={<ViewMyPost/>}/>
+        <Route path='register' element={<register/>}/>
 
       </Routes>
       
